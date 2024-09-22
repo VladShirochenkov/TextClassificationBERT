@@ -9,4 +9,4 @@ F1-score
 ### Формат вывода
 Файл .csv с 1 колонкой: category. В первой строке указаны соответствующие заголовки, в остальных строках находятся полученные данные.
 ### Используемые инструменты
-numpy, pamdas, keras, LabelEncoder, matplotlib, seaborn, sklearn, nltk, Tensorflow, transformers, TPU, BERT
+numpy, pandas, keras, LabelEncoder, matplotlib, seaborn, sklearn, nltk, Tensorflow, transformers, TPU, BERT
